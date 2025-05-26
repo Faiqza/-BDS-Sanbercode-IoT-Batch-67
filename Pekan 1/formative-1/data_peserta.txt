@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Internet of Things Development
+1. Nama: Faiq Fahreza
+2. Email: faiqfahreza1@gmail.com
+3. Sistem Operasi yang digunakan: Windows 11
+4. Akun Github: Faiqza
+5. Akun Telegram: Faiq Fahreza
+6. Status (Bekerja/Mahasiswa): Bekerja
+7. Umur: 22
+8. Pernah menggunakan C++? : Pernah
+9. Bahasa Pemrograman yg pernah dipelajari: Python, Javascript
+10. Pernah membuat Proyek Internet of Things? : Pernah
